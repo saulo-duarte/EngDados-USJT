@@ -1,0 +1,7 @@
+[project]
+name = "projeto-ustj-eng-dados"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pandas (>=2.2.3,<3.0.0)", "kagglehub (>=0.3.10,<0.4.0)"]
