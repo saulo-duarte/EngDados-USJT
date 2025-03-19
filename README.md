@@ -4,6 +4,7 @@ Este projeto tem como objetivo aplicar técnicas de engenharia de dados para pro
 
 ## Integrantes
 - [Saulo Leandro Ferreira Duarte](https://github.com/saulo-duarte)
+- Ryan Galvão Felix de Oliveira
 - Milena
 - Vinicius
 
